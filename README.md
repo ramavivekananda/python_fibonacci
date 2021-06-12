@@ -2,7 +2,7 @@
 fibonacci use case implementation
 
 
-Download the "fibomodule" folder to locally.
+Download the "fibomodule" folder to your local.
   # it consists of 3 files
     1. "fibonacci.py" is a class Module used to generate the fibonacci series for the given input number.  All expeceptions are handledin the class. The output result is declared         as private variable and should not access from outside of class. Using "get_output()" method only we will get the output in the form of list.
     
