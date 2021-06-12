@@ -12,11 +12,11 @@ Download the "fibomodule" folder to your local.
     3.  "test_fibo.py" is a test file to check the fibonacci output with the proper output. 
          Here Python test runner "unittesting"  has been used to check the assertions.
          
-   Pre-requistes : If you dont have python 3 and above versions, please install the python and set path in environmental variables to access in command prompt.
-   Step 1: Copy this "fibomodule" folder to locally.
-   Step 2: Open command prompt (cmd) and navigate to this folder.
-   Step 3: Run this command "python fibo_output.py" to see the output. it will ask the user to enter the inout values. Once entered it will generate the output as a list
-   Step 4:  Run this command "python test_fibo.py" to see the Test case Result.
+  # Pre-requistes : If you dont have python 3 and above versions, please install the python and set path in environmental variables to access in command prompt.
+    Step 1: Copy this "fibomodule" folder to locally.
+    Step 2: Open command prompt (cmd) and navigate to this folder.
+    Step 3: Run this command "python fibo_output.py" to see the output. it will ask the user to enter the inout values. Once entered it will generate the output as a list
+    Step 4:  Run this command "python test_fibo.py" to see the Test case Result.
    
    
    Please let me know in case if any issues 
